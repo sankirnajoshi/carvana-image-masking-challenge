@@ -1,6 +1,9 @@
 # Carvana Image Masking Challenge
 #### Automatically identify the boundaries of the car in an image    
 
+<img src="images/sample_image.png" alt="Kaggle Sample Image">
+Source(kaggle.com)    
+
 This competition was hosted on Kaggle [here](https://www.kaggle.com/c/carvana-image-masking-challenge) and the repository contains my code for the same.
 
 I participated in this competition as part of my **Capstone Project** for the  **Udacity Machine Learning Engineer Nanodegree**
