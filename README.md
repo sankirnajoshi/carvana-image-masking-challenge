@@ -18,9 +18,11 @@ Template: https://github.com/udacity/machine-learning/blob/master/projects/capst
 
 ### Dataset: https://www.kaggle.com/c/carvana-image-masking-challenge/data
 
-### Requirements: `Python 3.5+` and various essential libraries including (use the Latest versions)
+### Requirements:    
 
-    `scikit-learn` - Open source ML library for Python.
-    `Keras`  - Open source NN library for Python.
-    `Tensorflow` - Open Source DL library for Python.
-    `Jupyter Notebooks` - Open Source web app/ editor to run code.
+`Python 3.5+` and various essential libraries including (use the Latest versions)
+
+- `scikit-learn` - Open source ML library for Python.
+- `Keras`  - Open source NN library for Python.
+- `Tensorflow` - Open Source DL library for Python.
+- `Jupyter Notebooks` - Open Source web app/ editor to run code.
